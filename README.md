@@ -34,6 +34,8 @@ Unit 1 Audio: BDK20-1.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 1 Resources: BDK20-1\_resources.pdf
 
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK20-1/presentation_html5.html)
+
 ### Unit 2: Privacy, Security, and Confidentiality - Part 2
 
 Unit 2 Slides: BDK20-2.pptx
@@ -41,6 +43,8 @@ Unit 2 Slides: BDK20-2.pptx
 Unit 2 Audio: BDK20-2.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 2 Resources: BDK20-2\_resources.pdf
+
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK20-2/presentation_html5.html)
 
 ### Unit 3: HIPAA Privacy and Security Regulations - Part 1
 
@@ -50,6 +54,8 @@ Unit 3 Audio: BDK20-3.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 3 Resources: BDK20-3\_resources.pdf
 
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK20-3/presentation_html5.html)
+
 ### Unit 4: HIPAA Privacy and Security Regulations - Part 2
 
 Unit 4 Slides: BDK20-4.pptx
@@ -57,6 +63,8 @@ Unit 4 Slides: BDK20-4.pptx
 Unit 4 Audio: BDK20-4.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 4 Resources: BDK20-4\_resources.pdf
+
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK20-4/presentation_html5.html)
 
 ### Module Supplemental Materials
 
